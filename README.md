@@ -1,17 +1,16 @@
-🚀 Prasanna R | Developer Portfolio
+🚀 Joshua Phinehas S | Developer Portfolio
 
-Welcome to my personal developer portfolio repository. This portfolio showcases my technical skills, projects, and journey as a B.Tech Computer Science student and aspiring software developer.
+Welcome to my personal developer portfolio repository. This portfolio showcases my technical skills, projects, and journey as a B.E. Computer Science student and aspiring Software Developer.
 
-🌐 Live Portfolio:
-👉 https://prasanna-17-hub.github.io/Portfolio/
+🌐 Live Portfolio: 👉 (https://joshua-port.netlify.app/)
 
 ✨ Highlights
 
-Modern Dark UI with glassmorphism design and floating geometric backgrounds
+Modern Dark UI with glassmorphism design and animated backgrounds
 
-Dynamic Hero Section with neon-style interactions and typing animation
+Dynamic Hero Section with typing animation
 
-Interactive Project Showcase featuring my major development projects
+Interactive Project Showcase featuring my Deep Learning project
 
 Fully Responsive Design optimized for desktop, tablet, and mobile
 
@@ -29,45 +28,40 @@ CSS3 – Flexbox, Grid, animations, custom properties, glassmorphism effects
 
 JavaScript (Vanilla) – DOM manipulation, typing animation, smooth scrolling
 
-FontAwesome – Icons
+Font Awesome – Icons
 
 Google Fonts (Poppins) – Modern typography
 
-🚀 Featured Projects
-🔹 Smart Trip Planner
+🚀 Featured Project
+🔹 Head Hemorrhage Detection using Deep Learning
 
-A web-based travel planning application that generates day-wise itineraries based on destination, duration, and budget.
-Includes Google OAuth login, dashboard saving, and PDF export functionality.
+A deep learning-based medical imaging system designed to detect brain hemorrhage from CT scan images.
 
-🔹 Chrome Extension – Image Downloader
+CT Scan Image Classification
 
-A Chrome extension that allows users to download images using cursor-based selection.
-Supports JPEG & PNG formats with customizable sizes and shortcut activation.
+CNN-based Deep Learning Model
 
-🔹 Web Music Player
+Early Hemorrhage Detection Support
 
-A responsive music application built using HTML, CSS, and JavaScript with real-time audio controls.
+Tech Used: Python, TensorFlow, OpenCV, Deep Learning
 
 📈 About Me
 
-🎓 B.Tech – Computer Science & Business Systems
+🎓 B.E. – Computer Science & Engineering (2023–2027)
+🏫 Panimalar Engineering College
+📊 CGPA: 8.00 / 10
 
-💻 Strong in Java, Web Development, and SQL
-
-🧠 Solved 100+ problems on LeetCode
-
-🌱 Continuously learning modern technologies
+💻 Skilled in Java, Web Development, and SQL
+🧠 Solved 30+ problems on LeetCode
+🌱 Passionate about Software Development & Continuous Learning
 
 📬 Connect With Me
 
-Portfolio: https://prasanna-17-hub.github.io/Portfolio/
+🌐 Portfolio: (Add your live link here)
+💼 LinkedIn: https://www.linkedin.com/in/joshua-phinehas01/
 
-LinkedIn: https://www.linkedin.com/in/prasanna-17r
+💻 GitHub: https://github.com/joshuaphinehas
 
-GitHub: https://www.github.com/Prasanna-17-hub
+🧠 LeetCode: https://leetcode.com/u/joshuaphinehas001/
 
-LeetCode: https://leetcode.com/u/Prasanna-1714/
-
-HackerRank: https://www.hackerrank.com/profile/prasanna17r
-
-Email: prasannaraja17032006@gmail.com
+📧 Email: joshuaphinehas76@gmail.com
